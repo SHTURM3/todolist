@@ -1,0 +1,36 @@
+.main {
+    max-width: 600px;
+    width: 100%;
+    margin: 0 auto 25px auto;
+}
+.add-item {
+    max-width: 300px;
+    width: 100%;
+    margin: auto;
+}
+/* .name-item {
+}
+.name-item__container {
+} */
+.name-item__input {
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    width: 100%;
+}
+.name-item__input:focus-visible{
+    outline: none;
+}
+/* .description-item {
+}
+.description-item__container {
+} */
+.description-item__input {
+    border: none;
+    border-bottom: 1px solid rgba(0, 0, 0, 0.5);
+    margin-bottom: 20px;
+    width: 100%;
+}
+.description-item__input:focus-visible{
+    outline: none;
+}

@@ -1,0 +1,10 @@
+.tasks{
+    max-width: 600px;
+    width: 100%;
+    margin: auto;
+}
+.tasks__list{
+    list-style: none;
+    margin: 0;
+    padding: 0;
+}
